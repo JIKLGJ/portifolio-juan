@@ -1,0 +1,107 @@
+header{
+
+  
+}
+body{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+.sobreMIM{
+    
+    font-size: 30px;
+    color: black;
+ margin-left: 15%;
+}
+
+.projetos{
+    font-size: 30px;
+    color: black;
+    margin-left: 26%;
+}
+.tecnologias{
+    font-size: 30px;
+    color: black;
+
+    margin-left: 75%;
+   
+}
+.TXT-sobre{
+    margin-left: 60%;
+   font-size: 40px;
+    color: rgb(0, 0, 0);
+    
+}
+.IMG{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+
+}
+.text-sobre1{
+    margin-left: 50%;
+  margin-top: -20%;
+
+}
+.sobre{
+    
+    font-size: 19px;
+}
+.IMGlogin{
+    margin-left: 6%;
+    width: 450px;
+}
+.IMGENTRADA{
+    width: 450px;
+}
+.IMGurna{
+    width: 450px;
+}
+.txtProjetos{
+    display: flex;
+    margin-left: 45%;
+}
+.projetos1{
+    margin-left: 25%;
+    font-size: 25px;
+
+}
+.section2{
+    margin-top: 20%;
+}
+.IMGHTML{
+ margin-left: 30%;
+    width: 200px;
+
+}
+.IMGcss{
+  
+    width: 150px;
+}
+.IMGjavaS{
+    
+    width: 350px;
+}
+.divdafooter{
+
+    background: linear-gradient(to right, #ff6b46, #feb47b);
+}
+.icones{
+       color: black;
+       margin-left: 90% ;
+}
+p{
+    font-size: 30px;
+    margin-left: 45%;
+}
+h1{
+    font-size: 40px;
+}
+.nome{
+    margin-top: 10px;
+    margin-left: 0%;
+   font-size: 17px;
+   display: block;
+}
+.txtTecnologias{
+    margin-left: 45%;
+}
